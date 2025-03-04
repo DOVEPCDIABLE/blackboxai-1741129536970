@@ -1,0 +1,24 @@
+[2025-03-04 23:00:58] Exception: Class "User" not found in /project/sandbox/user-workspace/src/Controllers/AuthController.php on line 7
+Stack trace: #0 /project/sandbox/user-workspace/src/Core/routes.php(8): AuthController->__construct()
+#1 /project/sandbox/user-workspace/public/index.php(18): require_once('...')
+#2 {main}
+Request URI: /
+Request Method: GET
+User IP: ::1
+--------------------------------------------------------------------------------
+[2025-03-04 23:02:07] Exception: Class "User" not found in /project/sandbox/user-workspace/src/Controllers/AuthController.php on line 7
+Stack trace: #0 /project/sandbox/user-workspace/src/Core/routes.php(8): AuthController->__construct()
+#1 /project/sandbox/user-workspace/public/index.php(18): require_once('...')
+#2 {main}
+Request URI: /
+Request Method: GET
+User IP: ::1
+--------------------------------------------------------------------------------
+[2025-03-04 23:02:59] Exception: Class "User" not found in /project/sandbox/user-workspace/src/Controllers/AuthController.php on line 7
+Stack trace: #0 /project/sandbox/user-workspace/src/Core/routes.php(8): AuthController->__construct()
+#1 /project/sandbox/user-workspace/public/index.php(18): require_once('...')
+#2 {main}
+Request URI: /
+Request Method: GET
+User IP: ::1
+--------------------------------------------------------------------------------
